@@ -1,0 +1,15 @@
+
+HTTPServer/.vs/HTTPServer/v16/.suo
+HTTPServer/HTTPServer/bin/Debug/log.txt
+HTTPServer/HTTPServer/bin/Debug/RedirectionRulesFile
+HTTPServer/HTTPServer/bin/Debug/log
+*.manifest
+*.exe
+*.pdb
+*.suo
+*.cache
+HTTPServer/HTTPServer/Properties/AssemblyInfo.cs
+HTTPServer/HTTPServer/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttributes.cs
+HTTPServer/HTTPServer/obj/x86/Debug/HTTPServer.csproj.FileListAbsolute.txt
+HTTPServer/HTTPServer/HTTPServer.csproj
+xxx.txt

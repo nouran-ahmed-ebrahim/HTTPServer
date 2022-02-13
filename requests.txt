@@ -1,0 +1,3 @@
+GET /main.html HTTP/1.1\r\nHost: website\r\nUser-Agent: Chrome/22.0.1229.94\r\n\r\n
+GET /man.html HTTP/1.1\r\nHost: website\r\nUser-Agent: Chrome/22.0.1229.94\r\n\r\n
+GET /aboutus.html HTTP/1.1\r\nHost: website\r\nUser-Agent: Chrome/22.0.1229.94\r\n\r\n
