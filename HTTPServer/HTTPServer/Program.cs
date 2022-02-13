@@ -8,6 +8,7 @@ namespace HTTPServer
 {
     class Program
     {
+        
         static string path = @"RedirectionRulesFile";
 
         static void Main(string[] args)
