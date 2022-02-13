@@ -11,7 +11,7 @@ namespace HTTPServer
         static StreamWriter sr = new StreamWriter("log");
         public static void LogException(Exception ex)
         {
-            // TODO: Create log file named log.txt to log exception details in it
+            // Create log file named log.txt to log exception details in it
             //Datetime:
             //message:
             // for each exception write its details associated with datetime 
