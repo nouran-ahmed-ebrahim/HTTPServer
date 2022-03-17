@@ -1,1 +1,2 @@
-put the inetpub folder in C: partition in order to work properly
+C# take requests from pages with attribute get only
+And the send response.
